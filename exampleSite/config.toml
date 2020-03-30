@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://kelvin-meghna.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
