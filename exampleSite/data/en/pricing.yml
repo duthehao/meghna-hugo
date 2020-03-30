@@ -1,10 +1,10 @@
 ---
 pricing:
-  enable: false
+  enable: true
   title: Our Plans
   pricing_table:
   - name: Free
-    price: "$99"
+    price: "$0"
     unit: month
     services:
     - 1GB Disk Space
