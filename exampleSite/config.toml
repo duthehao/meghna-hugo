@@ -1,10 +1,10 @@
-baseURL = "https://sekti-crg.netlify.com"
+baseURL = "https://kelvin-meghna.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Sekti"
+title = "Sekti CRG"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
